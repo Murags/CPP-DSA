@@ -5,5 +5,6 @@ It contains the following:
 - ```rps.cpp``` : full program for the Rock, Paper, Scissors! game (*Language - C++*)
 - ```void.cpp``` : sample use of a function of type void (with no return value) [*Language - C++*]
 - ```arrays.cpp``` : sample use of one-dimensional array (*Language - C++*)
+- ```calc.py``` : sample use of Python functions [*Language - Python*]
 - ```match.py```: use of match-case (*Language - Python*)
 #### Feel free to send any queries and contributions. Cheers!
